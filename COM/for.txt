@@ -1,0 +1,3 @@
+for T from 1 to 4000 step 1 draw (500+200*sin(pi*t/2000), 500+40*cos(pi*t/2000));
+for T from 1 to 4000 step 1 draw (500+40*sin(pi*t/2000), 500+200*cos(pi*t/2000));
+for T from 1 to 4000 step 1 draw (500+200*sin(pi*t/2000), 500+200*cos(pi*t/2000));
